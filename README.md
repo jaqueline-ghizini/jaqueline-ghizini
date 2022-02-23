@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/jaqueline-ghizini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaqueline-ghizini&hide=&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueline-ghizini&layout=compact&langs_count=7&theme=radical"/></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueline-ghizini&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jaque-Nodejs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -17,7 +17,7 @@
   <img align="center" alt="Jaque-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Jaque-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
  <!-- <img align="right" alt="Jaque-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
-</div>
+</a></div>
 
 ##
  
