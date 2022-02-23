@@ -16,7 +16,7 @@
   <img align="center" alt="Jaque-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jaque-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Jaque-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="right" alt="Jaque-pic" height="150" style="border-radius:50px;" src="https://github.com/jaqueline-ghizini/jaqueline-ghizini/blob/main/eu.gif?width=676&height=676">
+  <img align="right" alt="Jaque-pic" height="150" style="border-radius:50px;" src="https://github.com/jaqueline-ghizini/jaqueline-ghizini/blob/main/eu.png?width=676&height=676">
 </a></div>
 
 ##
