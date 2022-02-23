@@ -3,7 +3,7 @@
 💻 Estudo Desenvolvimento Full Stack
 
 <div align="center">
-  <a color=transparent href="https://github.com/jaqueline-ghizini">
+  <a href="https://github.com/jaqueline-ghizini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaqueline-ghizini&hide=&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueline-ghizini&layout=compact&langs_count=7&theme=radical"/>
 </div>
