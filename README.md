@@ -1,6 +1,7 @@
 ## Olá! Me chamo Jaqueline Ghizini
 
-💻 Estudo Desenvolvimento Full Stack
+💻 Estudo Desenvolvimento Full Stack  <img align="right" alt="Jaque" height="80" width="80"  src="https://github.com/jaqueline-ghizini/jaqueline-ghizini/tree/main/img/meuGIF.mp4" />
+ 
 
 <div align="center">
   <a href="https://github.com/jaqueline-ghizini">
