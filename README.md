@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/jaqueline-ghizini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaqueline-ghizini&hide=&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueline-ghizini&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaqueline-ghizini&hide=&show_icons=true&theme=radical&include_all_commits=true&commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueline-ghizini&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" title="NodeJs" alt="Jaque-Nodejs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
